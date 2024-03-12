@@ -1,12 +1,10 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class LoginUser {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 
-        String usuarioMock = "lucas.silva";
+        String usuarioMock = "fernanda.caramico";
         String senhaMock = "urubu100";
 
         String usuario;
